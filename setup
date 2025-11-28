@@ -1,0 +1,3 @@
+cd vite && bun i && cd ..
+cd elysia && bun i && cd ..
+echo "setup done"
